@@ -1,4 +1,4 @@
-# 🎵 Onyx Data Challenge — May 2026
+# 🎵 Onyx Data Challenge - May 2026
 ## Music Streaming Analytics Dashboard (Power BI)
 
 > **Status: Work in Progress** — Data model, relationships, and full DAX measures library are complete. Two dashboard pages partially built.
@@ -9,6 +9,15 @@
 This is my submission attempt for the [Onyx Data Challenge - May 2026](https://datadna.onyxdata.co.uk/challenges/may-2026-datadna-engagement-subscription-churn-content-performance-analytics-challenge/), where participants build an analytical dashboard for a fictional music streaming platform covering 4 years of operational data (2021–2024) across 10 markets.
 
 Due to time constraints I wasn't able to finish — but the hardest parts are already done. If you're participating in the same challenge, feel free to fork this repo and build on top of what's here.
+
+## Dashboard Images
+
+Page 1: BUSINESS HEALTH OVERVIEW
+<img width="1638" height="935" alt="image" src="https://github.com/user-attachments/assets/6ca64ccf-8417-4153-ae2f-11a126e67646" />
+
+
+Page 2: ENGAGEMENT AND CONTENT INSIGHTS
+<img width="1634" height="932" alt="image" src="https://github.com/user-attachments/assets/3243deba-1350-406b-a50b-90a0cc0d72cb" />
 
 
 ## 🗂️ Data Model
